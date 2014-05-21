@@ -5,4 +5,4 @@ Git es un sistema de [control de versiones de fuentes distribuido](http://es.wik
 
 Git modela los datos más como si fuesen un conjunto de instantáneas, (fotos), a como lo hacen otros sistemas, Subversion, Bazaar, etc. En los cuales solo almacenan y modelan las modificaciones como una lista de cambios en los archivos.
 
-Por ejemplo, en Git cada vez que confirmas un cambio con `git push` hace una foto de como están todos tus archivos en ese momento y guarda una referencia a ese momento en concreto con un número 
+Por ejemplo, en Git cada vez que confirmas un cambio con `git push` hace una "foto" de como están todos tus archivos en ese momento y guarda una referencia a ese momento en concreto con un número 
