@@ -87,4 +87,6 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
-* ~
+
+## Ignoramos todos los archivos que terminen en "~"
+*~
