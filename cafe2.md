@@ -1,5 +1,5 @@
-Conceptos básicos de ```Git```
-===============================
+Conceptos básicos de `Git`
+==========================
 
 Git es un sistema de [control de versiones de fuentes distribuido](http://es.wikipedia.org/wiki/Control_de_versiones) diseñado por [Linus Torvalds](http://es.wikipedia.org/wiki/Linus_Torvalds), creador también del [Kernel Linux](http://es.wikipedia.org/wiki/N%C3%BAcleo_Linux), basado en línea de órdenes.
 
