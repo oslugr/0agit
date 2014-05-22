@@ -8,15 +8,21 @@ Github es para cualquier persona, pero principalmente está pensado para ser "ma
 ##Entorno gŕafico para:
 
 Alta web: https://github.com
+Ejercicio 1: Alta.
 
 Análisis del entorno gráfico.
+Ejercicio 2: Investiga lo que ves y pregunta.
 
 Editar perfil.
+Ejercicio 3: Añade una foto.
 
 ##Y algo más.
 
 Buscar.
+Ejercicio 4: Busca una cuenta o un repositorio.
 
 Github como red social.
+Ejercicio 5: Analiza seguidores, seguidos y "stars".
 
 Análisis de actividad y de mi actividad.
+Ejercicio 6: Analiza la actividad de alguien y la tuya ( en su caso)
