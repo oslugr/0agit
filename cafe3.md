@@ -5,10 +5,15 @@
 
 ##Alta web
 Darse de alta en https://github.com
+
 Análisis del entorno gráfico.
+
 Editar perfil.
 
 ##Y algo más.
+
 Buscar.
+
 Crear repositorio.
+
 Github como red social.
