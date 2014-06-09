@@ -29,5 +29,7 @@ El responsable del proyecto contesta y asigna en los propios `issues` a cada uno
 
 
 
-(Hablar sobre la importancia de git como trabajo colaborativo en proyectos de software (comunicacion y organización entre los usuarios y poder establecer metas con los Issues=comentarios y poder organizar luego poner Hitos=para crear metas dentro de los propios issues ), que permite aprobar cambios, trabajar en local y sin conexión a red por parte de cada desarrollador.)
+### Trabajo colaborativo
+
+La importancia y efectividad de `Git` en el trabajo colaborativo se basa en la coordinación y posibilidad de trabajar desde un mismo espacio de trabajo, permitiendo que cada miembro, individualmente, trabaje en un proyecto de forma local y hasta sin conexión a la Internet, solo debiendose conectar para comunicar los cambios en el repositorio y así fusionar el trabajo, siempre bajo la supervisión del responsable o responsables de cada proyecto, que haya realizado, con el consiguiente beneficio en rápidez, recursos, concentración y sobre todo individudalidad. El responsable del proyecto siempre podrá aceptar o no los cambios de los `commit` y/o `pull request` realizados por parte de cada desarrollador, dependiendo de si son válidos u ofrecen cambios con mejoras, resolviendo bugs, añadiendo código para optimizar, etc. etc... Y este último los aceptará o no.
 
