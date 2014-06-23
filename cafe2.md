@@ -6,9 +6,9 @@ www.makova.es
 
 Oficina de software libre de la UGR
 
-osl.ugr.es
+[osl.ugr.es](http://osl.ugr.es/)
 
-@OSLUGR
+[@OSLUGR](https://twitter.com/oslugr)
 
 
 
