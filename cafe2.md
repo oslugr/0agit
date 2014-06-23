@@ -1,6 +1,4 @@
-Manu Cogolludo Vallejo
-
-www.makova.es
+*Manu Cogolludo Vallejo*
 
 [@makova65](https://twitter.com/Makova65)
 
