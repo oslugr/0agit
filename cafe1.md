@@ -95,3 +95,5 @@ Poner uno o más archivos bajo el control del sistema de control de versiones. "
 
 Esta presentación se distribuye bajo una licencia libre
 *CC By SA*
+
+(puede descargarse de http://www.psicobyte.com/info/descargas)
