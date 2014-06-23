@@ -52,4 +52,4 @@ La importancia y efectividad de `Git` en el trabajo colaborativo se basa en la c
 
 Esta presentación se distribuye bajo una licencia libre [CC By SA](http://creativecommons.org/licenses/by-sa/3.0/es/)
 
-*Descarga desde:* https://drive.google.com/file/d/0B6GM3bGdNZ1zSUp5RHRuMmw2a2c/edit?usp=sharing
+**Descarga desde:** https://drive.google.com/file/d/0B6GM3bGdNZ1zZEdCdzhJQjMweDA/edit?usp=sharing
