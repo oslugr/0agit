@@ -29,3 +29,5 @@ El responsable del proyecto contesta y asigna en los propios `issues` a cada uno
 
 La importancia y efectividad de `Git` en el trabajo colaborativo se basa en la coordinación y posibilidad de trabajar desde un mismo espacio de trabajo, permitiendo que cada miembro, individualmente, trabaje en un proyecto de forma local y hasta sin conexión a la Internet, solo debiendose conectar para comunicar los cambios en el repositorio y así fusionar el trabajo, siempre bajo la supervisión del responsable o responsables de cada proyecto, que haya realizado, con el consiguiente beneficio en rápidez, recursos, concentración y sobre todo individudalidad. El responsable del proyecto siempre podrá aceptar o no los cambios de los `commit` y/o `pull request` realizados por parte de cada desarrollador, dependiendo de si son válidos u ofrecen cambios con mejoras, resolviendo bugs, añadiendo código para optimizar, etc. etc... Y este último los aceptará o no.
 
+
+Descarga desde: https://drive.google.com/file/d/0B6GM3bGdNZ1zSUp5RHRuMmw2a2c/edit?usp=sharing
