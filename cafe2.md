@@ -1,3 +1,17 @@
+Manu Cogolludo Vallejo
+
+www.makova.es
+
+@makova65
+
+Oficina de software libre de la UGR
+
+osl.ugr.es
+
+@OSLUGR
+
+
+
 # Conceptos básicos de `Git`
 
 
@@ -31,4 +45,8 @@ La importancia y efectividad de `Git` en el trabajo colaborativo se basa en la c
 
 
 
-> Descarga desde: https://drive.google.com/file/d/0B6GM3bGdNZ1zSUp5RHRuMmw2a2c/edit?usp=sharing
+© 2014 Manu Cogolludo Vallejo
+
+Esta presentación se distribuye bajo una licencia libre [CC By SA](http://creativecommons.org/licenses/by-sa/3.0/es/)
+
+*Descarga desde:* https://drive.google.com/file/d/0B6GM3bGdNZ1zSUp5RHRuMmw2a2c/edit?usp=sharing
