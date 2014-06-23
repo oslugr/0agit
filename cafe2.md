@@ -2,7 +2,7 @@ Manu Cogolludo Vallejo
 
 www.makova.es
 
-@makova65
+[@makova65](https://twitter.com/Makova65)
 
 Oficina de software libre de la UGR
 
