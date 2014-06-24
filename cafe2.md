@@ -1,15 +1,15 @@
 # Hola Git
 
 
-*Por Manu Cogolludo Vallejo*
+> *Por Manu Cogolludo Vallejo*
 
-[@Makova65](https://twitter.com/Makova65)
+> [@Makova65](https://twitter.com/Makova65)
 
-Oficina de software libre de la UGR
+> Oficina de software libre de la UGR
 
-[osl.ugr.es](http://osl.ugr.es/)
+> [osl.ugr.es](http://osl.ugr.es/)
 
-[@OSLUGR](https://twitter.com/oslugr)
+> [@OSLUGR](https://twitter.com/oslugr)
 
 
 
@@ -49,8 +49,8 @@ La importancia y efectividad de `Git` en el trabajo colaborativo se basa en la c
 
 
 
-© 2014 Manu Cogolludo Vallejo
+> © 2014 Manu Cogolludo Vallejo
 
-Esta presentación se distribuye bajo una licencia libre [CC By SA](http://creativecommons.org/licenses/by-sa/3.0/es/)
+> Esta presentación se distribuye bajo una licencia libre [CC By SA](http://creativecommons.org/licenses/by-sa/3.0/es/)
 
-**Descarga desde:** [Drive oslugr](https://drive.google.com/file/d/0B6GM3bGdNZ1zeEhlWDFLVXNHWDg/edit?usp=sharing)
+> **Descarga desde:** [Drive oslugr](https://drive.google.com/file/d/0B6GM3bGdNZ1zeEhlWDFLVXNHWDg/edit?usp=sharing)
