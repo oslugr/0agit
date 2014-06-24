@@ -3,7 +3,7 @@
 
 *Por Manu Cogolludo Vallejo*
 
-[@makova65](https://twitter.com/Makova65)
+[@Makova65](https://twitter.com/Makova65)
 
 Oficina de software libre de la UGR
 
