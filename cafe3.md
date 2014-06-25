@@ -26,3 +26,7 @@ Ejercicio 5: Analiza seguidores, seguidos y "stars".
 
 Análisis de actividad y de mi actividad.  
 Ejercicio 6: Analiza la actividad de alguien y la tuya ( en su caso).  
+
+##Y mucho más.
+
+La web del proyecto.
