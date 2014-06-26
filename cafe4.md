@@ -66,6 +66,10 @@ Guarda archivo
 
 `git commit`
 
+Ver estado
+
+`git status`
+
 
 ##Sincronizando
 
