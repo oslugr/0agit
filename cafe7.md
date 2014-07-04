@@ -1,8 +1,8 @@
-##Ramas y cómo trabajar con ellas.
+## Ramas y cómo trabajar con ellas.
 
 
 Crea una rama:  
-git branch Nombre-De-La-Rama  
+`git branch Nombre-De-La-Rama`
 
 
 Nos movemos a una rama:  
