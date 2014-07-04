@@ -1,4 +1,4 @@
-##Obtener Ayuda
+## Obtener Ayuda
 
 `git help`
 
@@ -6,7 +6,7 @@
 
 `git help commit`
 
-##Viendo el historial
+## Viendo el historial
 
 `git log`
 
@@ -14,11 +14,11 @@
 
 `git log --graph --oneline` 
 
-especial:
+Especial:
 
 `git log --all`
 
-##Deshacer cambios en un archivo (recuperar el del HEAD)
+## Deshacer cambios en un archivo (recuperar el del HEAD)
 
 `git checkout -- NOMBRE_DEL_ARCHIVO`
 
