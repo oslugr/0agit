@@ -7,7 +7,8 @@ Github es para cualquier persona, pero principalmente está pensado para ser "ma
 
 ##Entorno gráfico para:
 
-Alta web: https://github.com  
+Alta web: https://github.com 
+Alta web Universitaria : https://education.github.com/pack/offers Con una cuenta de correo institucional , 3 repositorios privados para poder realizar practicas de manera privada.
 Ejercicio 1: Alta.  
 
 Análisis del entorno gráfico.  
